@@ -1,0 +1,156 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+
+  font-family: "Young Serif", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.container{
+    padding: 50px;
+}
+.sectionone{
+    color: white;
+    background-color: black;
+    padding: 15px;
+}
+.sectionone__contact{
+    background-color: orange;
+    color: white;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 2px;
+    text-decoration: none;
+    display: inline-block;
+}
+.sectionone__name{
+    font-size: 45px;
+}
+.sectionone__role{
+    font-size: 25px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.sectiontwo__aboutmeh{
+    padding-top: 15px;
+}
+.sectiontwo__aboutmec{
+    padding-top: 15px;
+    padding-bottom: 12px;
+}
+.sectionthree__myintrestlist,.sectionfour__myprojectlist li{
+    list-style: none;
+}
+.sectionthree{
+    height: 280px;
+    width: 200px;
+    background-color: rgba(3, 222, 241, 0.94);
+    display:inline-block;
+    padding-left: 20px;
+    border-radius: 15px;
+    vertical-align: top;
+}
+.sectionthree>h1{
+    padding-top: 20px;
+}
+.sectionthree>h1:hover{
+    color: white;
+    text-decoration: underline;
+}
+.sectionfour{
+    height: 280px;
+    width: 1540px;
+    background-color: orangered;
+    display: inline-block;
+    padding-left: 20px;
+    border-radius: 15px;
+    vertical-align: top;
+}
+.sectionfour>h1{
+    padding-top: 20px;
+}
+.sectionfour>h1:hover{
+    color:white;
+    text-decoration: underline;
+}
+.sectionfour__myprojectlist>li>h1:hover{
+    color: green;
+    text-decoration: underline;
+}
+.sectionfive{
+    margin-top: 20px;
+        color: white;
+        background-color: black;
+        padding: 15px;
+        border-radius: 10px;
+    }
+    
+.sectionfive a{
+    color: rgb(96, 185, 237);
+}
+.contactsection{
+    padding: 5px;
+    margin: 20px;
+}
+.section1{
+    color: white;
+    background-color: black;
+    padding: 13px;
+}
+.section1__link{
+    color: white;
+    background-color: orangered;
+    text-decoration: none;
+    padding-left:4px ;
+    padding-right: 4px;
+    padding-bottom: 5px;
+}
+.section1__name{
+    padding-bottom: 8px;
+}
+.section1__role{
+    padding-bottom: 8px;
+}
+.section3{
+    color: white;
+    background-color: black;
+    padding-left: 8px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin: 5px;
+}
+.section3>p>a{
+    color: aqua;
+}
+.section2{
+    margin-top: 20px;
+}
+.section2__input1,.section2__input2,.section2__input3,.{
+    padding-top: 20px;
+    
+}
+.one{
+    padding-right: 20px;
+}
+.section2__input1{
+    border: none;
+    border-bottom: solid black 1px;
+   
+}
+.section2__input2{
+    border: none;
+    border-bottom: solid black 1px;
+     padding-bottom: 5px;
+}
+.section2__input3{
+    border: solid black 1px;
+    padding-bottom: 10px;
+}
+.section2__input4{
+    padding: 4px;
+    margin-left: 100px;
+    background-color: orangered;
+    border: none;
+}
