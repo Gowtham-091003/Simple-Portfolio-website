@@ -1,15 +1,37 @@
-My PortFolio Website
+Simple Portfolio Website
 
-This is a **simple personal portfolio website** created using **HTML** and **CSS**.
-It includes an **About Me** page to introduce yourself and a **Contact** page for visitors to get in touch.
+This is a simple personal portfolio website created using HTML and CSS.
+It includes an About Me page to introduce yourself and a Contact page for visitors to get in touch.
 
-###  Technologies Used
+Technologies Used
 
 HTML5 – structure and content
-CSS3 – styling and layout
- 
- Features
 
-* Two-page design: About Me and Contact
-* Clean, minimal, and responsive layout
-* Easy to customize for personal use.
+CSS3 – styling and layout
+
+Features
+
+Two-page design: About Me and Contact
+
+Clean, minimal, and responsive layout
+
+Easy to customize for personal use
+
+How to Use
+
+Clone the repository:
+
+git clone [link]
+
+
+Open index.html (About Me page) in your browser.
+
+Edit the text and links to personalize your portfolio.
+
+Future Enhancements
+
+Add a Home or Projects page
+
+Improve responsiveness for all screen sizes
+
+Add animations or hover effects
