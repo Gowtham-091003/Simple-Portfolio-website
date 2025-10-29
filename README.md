@@ -1,7 +1,7 @@
 This is a **simple personal portfolio website** created using **HTML** and **CSS**.
 It includes an **About Me** page to introduce yourself and a **Contact** page for visitors to get in touch.
 
-### 🛠️ Technologies Used
+###  Technologies Used
 
 HTML5 – structure and content
 CSS3 – styling and layout
